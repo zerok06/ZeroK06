@@ -1,16 +1,3 @@
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/zerok06/zerok06/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/dc886cd31b5419a1a46ac77a8c192e8af962cffc9f349de62adba991ceb11667/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6462676d76767861322f696d6167652f75706c6f61642f76313638343634383933382f446973652543332542316f5f73696e5f7425433325414474756c6f5f6376366d6e6e2e676966"  />
-</div>
-
-###
 <h2 align="left">Hi 👋! My name is ZeroK and I'm a ..., from Peru</h2>
 
 ###
@@ -84,3 +71,16 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
 </div>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/zerok06/zerok06/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="200" src="https://camo.githubusercontent.com/dc886cd31b5419a1a46ac77a8c192e8af962cffc9f349de62adba991ceb11667/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6462676d76767861322f696d6167652f75706c6f61642f76313638343634383933382f446973652543332542316f5f73696e5f7425433325414474756c6f5f6376366d6e6e2e676966"  />
+</div>
+
+###
