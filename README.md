@@ -1,1 +1,1 @@
-[![Jose Paye](https://i.postimg.cc/yd3Ndr4J/Jose-Paye.png)](https://josepaye.vercel.app)
+[![Jose Paye](https://res.cloudinary.com/dbgmvvxa2/image/upload/v1737604542/portada_fo41e9.png)](https://josepaye.vercel.app)
