@@ -1,2 +1,1 @@
 [![Jose Paye](https://res.cloudinary.com/dbgmvvxa2/image/upload/v1737604542/portada_fo41e9.png)](https://josepaye.vercel.app)
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/3ZHU5AKrUmIPnCFfr82QER?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
